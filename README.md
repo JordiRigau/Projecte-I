@@ -2,7 +2,7 @@
 
 Este repositorio contiene un proyecto de análisis de datos y machine learning enfocado en predecir la tasa de abandono (churn) de los clientes de una compañía de telecomunicaciones.
 
-**Autores:** Jordi Rigau, Aniol de Ribot, Oscar Losada.
+**Autores:** Jordi, Aniol, Oscar.
 
 ## 🎯 Objetivos del Proyecto
 
